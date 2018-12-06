@@ -1,5 +1,9 @@
 # Learn
 
+Public page is located here: https://alicetech.github.io/Learn/
+
+# Lesons:
+
 # index.html
 ````
 <html>
