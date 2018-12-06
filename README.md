@@ -2,7 +2,7 @@
 
 Public page is located here: https://alicetech.github.io/Learn/
 
-# Lesons:
+Check out the lessons: [a relative link](lessons)
 
 # index.html
 ````
