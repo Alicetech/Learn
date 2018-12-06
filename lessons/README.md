@@ -1,2 +1,2 @@
 # Lesons:
-* [lesson1-Dice](lesson1-Dice)
+* [lesson 1 - Dice Game](lesson1-Dice)
