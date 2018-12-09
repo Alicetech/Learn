@@ -8,7 +8,7 @@ Check out the [lessons here](lessons)!
 * Indentaion - import to keep code readable. Some projects have guidelines indicating whether to use tabs or mulitple spaces. Our guideline is to use tabs.
 * camelHump notation - Used to standardize object names, such as: Functions, Variables and Classes.
 * SaaS (Software as a Service) - Ex: Netflix, AWS, Tinder,Github and Gsuite.
-* Repository -  Version control, contributions and bug/feature tracking. Ex: Git and Github.
+* Repository -  Version control, contributions (teams), and bug/feature tracking. Ex: Git and Github.
 
 
 # index.html
